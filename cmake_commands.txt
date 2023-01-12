@@ -1,0 +1,3 @@
+cmake ../src/ -DCMAKE_BUILD_TYPE=Debug
+
+	-DUSE_VALGRIND=OFF
